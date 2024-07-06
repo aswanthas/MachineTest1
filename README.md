@@ -1,4 +1,4 @@
-# MachineTest1
+# ToDo List
 This project is focused on SWiftUI+SwiftData 
 
 
@@ -13,7 +13,7 @@ Update To-Dos: Modify task names and mark them as completed.
 Delete To-Dos: Remove tasks that are no longer needed.
 Persistence: Data is stored locally using SwiftData, ensuring your tasks are saved even if the app is closed.
 
-#Usage
+# Usage
 
 Adding a To-Do
 Launch the app.
